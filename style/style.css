@@ -1,0 +1,20 @@
+*{
+    background-color:#F7F4F3;
+}
+
+.search-bar{
+    margin:30px;
+    text-align: center;
+}
+
+.search-input{
+    background-color:white;
+    font-size:14px;
+    text-align:center;
+}
+
+.video-detail{
+    border: 10px solid white;
+    border-radius:15px;
+    background-color:white;
+}
